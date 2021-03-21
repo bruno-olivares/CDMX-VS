@@ -1,0 +1,9 @@
+#Number of layers, halfspace included
+#Thickness [m]  #Vp [m/s]  #Vs [m/s]  #Density [kg/m3] 
+#4
+#
+#
+38.38 615.6 77.23 1230
+60.54 837.2 144.1 1202
+316.5 1695 474.7 1454
+0 1698 797.4 1999
